@@ -1,0 +1,18 @@
+.SMMS0420-4R7M :1 ;2.5A 4.7uH 3A 126m +/-20% SMD,4.6x4.2mm Fixed Inductors RoHS
+SMMS04204R7M
+*STM L
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN SMMS0420-4R7M
+~!Manufacturer_Name (Shun Xiang Nuo Elec)
+~!Manufacturer_Part_Number (SMMS0420-4R7M)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.lcsc.com/datasheet/C133193.pdf)
+~!Height (2mm)
+~!3D_Model (SMMS0420-4R7M)
+SMMS0420-4R7M
+1.1!U 2.1!U 

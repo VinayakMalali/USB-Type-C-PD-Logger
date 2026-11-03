@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMMS0420-4R7M
+D 2.5A 4.7uH 3A 126m +/-20% SMD,4.6x4.2mm Fixed Inductors RoHS
+K
+F https://www.lcsc.com/datasheet/C133193.pdf
+$ENDCMP
+#
+#End Doc Library

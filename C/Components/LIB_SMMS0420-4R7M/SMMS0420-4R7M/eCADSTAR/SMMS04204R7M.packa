@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMMS0420-4R7M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-04-13-08:59:42)
+    (mountForm default
+        (footprintRef "SMMS04204R7M")
+        (spec "System")
+    )
+)

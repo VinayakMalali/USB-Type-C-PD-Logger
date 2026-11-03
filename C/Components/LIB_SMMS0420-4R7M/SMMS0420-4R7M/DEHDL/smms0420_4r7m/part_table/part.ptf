@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMMS0420_4R7M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Shun Xiang Nuo Elec", "SMMS0420-4R7M" (!) = "", "SMMS04204R7M", "Other", "", "", "", "", "2.5A 4.7uH 3A 126m +/-20% SMD,4.6x4.2mm Fixed Inductors RoHS", "https://www.lcsc.com/datasheet/C133193.pdf", "2 mm"
+END_PART
+
+END.

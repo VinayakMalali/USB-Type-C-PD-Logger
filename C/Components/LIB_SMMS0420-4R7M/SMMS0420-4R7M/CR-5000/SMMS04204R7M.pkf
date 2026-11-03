@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SMMS04204R7M"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SMMS04204R7M")
+        (spec "default")
+    )
+)
