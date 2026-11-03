@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Program Files\Altium\Projects\Type-C Tester\Type-C Tester.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=type-c tester-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=type-c tester-slotholes.txt|DrillLayers=gtl,gbl

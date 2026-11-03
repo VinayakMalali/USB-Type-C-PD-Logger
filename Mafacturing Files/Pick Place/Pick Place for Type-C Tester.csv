@@ -1,0 +1,45 @@
+﻿Altium Designer Pick and Place Locations
+C:\Program Files\Altium\Projects\Type-C Tester\Project Outputs for Free Documents\Pick Place\Pick Place for Type-C Tester.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02-11-26
+Time:       21:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+﻿"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U4","USB4155-03-C","TopLayer","GCT_USB4155-03-C_REVA","47.2040mm","13.9700mm","90","USB Connector, 24 Contact(s), Female, Right Angle, Surface Mount Terminal, Plug"
+"Y1","16MHz","TopLayer","XTAL_ABM10-16.000MHZ-D30-T3","20.1000mm","14.1000mm","270","Crystal 16MHz ±20ppm (Tol) ±30ppm (Stability) 10pF FUND 150Ohm 4-Pin Ultra Mini-CSMD T/R"
+"U6","AP63203WU-7","TopLayer","FP-TSOT26-IPC_A","17.2000mm","16.5000mm","180","DC-DC Switching Step-Down Regulator, Fixed, 3.8V to 32V in, 3.3V out, 2A out, TSOT-26-6"
+"U5","OLED","TopLayer","MODULE_DM-OLED096-636","24.6900mm","14.7500mm","0",""
+"U3","KH-TYPE-C-16P","TopLayer","KINGHELM_KH-TYPE-C-16P","3.5535mm","13.9700mm","270","Unchecked KH-TYPE-C-16P 3A 1 Horizontal attachment 16P Female -40℃~+85℃ Type-C SMD USB Connectors ROHS Uncategorized"
+"U2","INA219AIDCNR","TopLayer","SOT65P280X145-8N","25.3000mm","22.7000mm","0","26-V 12-bit I2C output digital power monitor 8-SOT-23 -40 to 125"
+"U1","STM32F103C8T6","TopLayer","QFP50P900X900X160-48N","29.2580mm","13.9700mm","0","MCU 32-bit STM32F1 ARM Cortex M3 RISC 64KB Flash 2.5V/3.3V 48-Pin LQFP Tray"
+"R5","CRGCQ0402F1K0","TopLayer","FP-CRGCQ0402-IPC_C","5.2122mm","3.6672mm","0","CRGCQ0402 1KΩ 1% ±100ppm/°C 50V"
+"R4","2K2","TopLayer","RESC1005X40N","28.7000mm","21.6000mm","180","Unchecked RND 1550402WGF2201TCE SMD Resistor Dimensions L x W x H: 1 x 0.5 x 0.35 mm Temperature range: -55 ... 155 °C Construction form: 0402... Uncategorized      100ppm/°C"
+"R3","2K2","TopLayer","RESC1005X40N","29.3000mm","22.8000mm","0","Unchecked RND 1550402WGF2201TCE SMD Resistor Dimensions L x W x H: 1 x 0.5 x 0.35 mm Temperature range: -55 ... 155 °C Construction form: 0402... Uncategorized      100ppm/°C"
+"R2","10K","TopLayer","FP-TFCR0603-IPC_B","24.1000mm","19.2000mm","0","RES Thin Film,  10kΩ, 1%, 0.1W, 100ppm/°C, 0603"
+"R1","50mOhm","TopLayer","RESC6432X110N","41.4500mm","11.9380mm","270","Unchecked HOJLR2512-2W-50MR-1% 2512 Alloy Resistor, 0.05Ω ±1%, 50ppm, 2W Chip SMD Resistors"
+"L1","4.7μH","TopLayer","SMMS04204R7M","16.5000mm","21.5000mm","0","Manufacturer Part Description Category Supply Info
+Unchecked SMMS0420-4R7M 4.7μH ±20% 3A Inductor Uncategorized"
+"J1","SWD","TopLayer","SWD","26.4640mm","5.2070mm","0",""
+"D3","RED","TopLayer","LED_KT-0603R","5.0199mm","5.8291mm","180","Unchecked KT-0603R 615nm~630nm 120° 1.9V~2.2V red 0603 SMD mount 1.6mm*800μm*700μm Uncategorized"
+"D2","B5819WSL-TP","TopLayer","B5819WSL","18.4000mm","6.1000mm","0","Rectifier Diode, Schottky, 1 Phase, 1 Element, 1A, 40V V(RRM), Silicon"
+"D1","B5819WSL-TP","TopLayer","B5819WSL","10.7160mm","14.9860mm","270","Rectifier Diode, Schottky, 1 Phase, 1 Element, 1A, 40V V(RRM), Silicon"
+"C14","10uF","TopLayer","FP-GRM21B-0_2-e0_2_0_7-IPC_A","15.9000mm","10.7000mm","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 50V"
+"C13","CC0603KRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","13.4000mm","16.5000mm","90","CAP CER 0.1UF 50V X7R 0603"
+"C12","CL21A226MAQNNNE","TopLayer","CAPC2013X140X45LL15T25","22.5000mm","17.2000mm","0","Multi-layer Ceramic Capacitor, 22 uF, -55 to 85 degC, 2-Pin SMD (0805), RoHS, Tape and Reel"
+"C11","CL21A226MAQNNNE","TopLayer","CAPC2013X140X45LL15T25","19.0000mm","11.1000mm","270","Multi-layer Ceramic Capacitor, 22 uF, -55 to 85 degC, 2-Pin SMD (0805), RoHS, Tape and Reel"
+"C10","CL05C100JB5NNNC","TopLayer","CAPC1005X55N","17.6000mm","13.6000mm","0","10 pF Â±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C9","CL05C100JB5NNNC","TopLayer","CAPC1005X55N","21.4000mm","15.9000mm","180","10 pF Â±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C8","CC0603KRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","21.0000mm","10.6000mm","90","CAP CER 0.1UF 50V X7R 0603"
+"C7","CC0603KRX5R9BB105","TopLayer","FP-CC0603-DA-MFG","35.2270mm","8.7630mm","0","CAP CER 1UF 50V X5R 0603"
+"C6","CL05B103KB5NNNC","TopLayer","FP-CL165-IPC_C","35.1000mm","10.2870mm","0","Cap Ceramic 10nF 50V X7R ±10% SMD 0402 +125°C Paper T/R"
+"C5","CC0603KRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","33.0680mm","21.5900mm","270","CAP CER 0.1UF 50V X7R 0603"
+"C4","CC0603KRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","31.4170mm","21.5900mm","270","CAP CER 0.1UF 50V X7R 0603"
+"C3","CC0603KRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","21.3000mm","19.3000mm","0","CAP CER 0.1UF 50V X7R 0603"
+"C2","CC0603KRX7R9BB104","TopLayer","FP-CC0603-DA-MFG","22.1000mm","8.6000mm","180","CAP CER 0.1UF 50V X7R 0603"
+"C1","10uF","TopLayer","FP-GRM21B-0_2-e0_2_0_7-IPC_A","35.1000mm","21.3360mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 50V"
